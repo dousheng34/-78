@@ -13,7 +13,8 @@
       "total_referrals": 0,
       "stars_balance": 0,
       "pending_service": null,
-      "joined_at": "2026-03-25T19:21:32.319948"
+      "joined_at": "2026-03-25T19:21:32.319948",
+      "trial_requests": 1
     }
   },
   "transactions": [],
