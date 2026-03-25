@@ -1,8 +1,24 @@
 {
-  "users": {},
+  "users": {
+    "7578426218": {
+      "id": 7578426218,
+      "username": "aseka0303",
+      "first_name": "Aseken",
+      "subscription": "free",
+      "subscription_end": null,
+      "daily_requests": 0,
+      "last_request_date": "2026-03-25",
+      "referral_code": "8E9C45E5",
+      "referred_by": null,
+      "total_referrals": 0,
+      "stars_balance": 0,
+      "pending_service": null,
+      "joined_at": "2026-03-25T19:21:32.319948"
+    }
+  },
   "transactions": [],
   "stats": {
-    "total_users": 0,
+    "total_users": 1,
     "total_revenue_stars": 0,
     "total_transactions": 0
   }
