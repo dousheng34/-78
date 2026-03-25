@@ -6,7 +6,7 @@
       "first_name": "Aseken",
       "subscription": "free",
       "subscription_end": null,
-      "daily_requests": 2,
+      "daily_requests": 3,
       "last_request_date": "2026-03-25",
       "referral_code": "8E9C45E5",
       "referred_by": null,
@@ -15,7 +15,7 @@
       "pending_service": null,
       "joined_at": "2026-03-25T19:21:32.319948",
       "trial_requests": 1,
-      "total_requests_ever": 2
+      "total_requests_ever": 3
     }
   },
   "transactions": [],
